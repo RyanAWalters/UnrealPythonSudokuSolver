@@ -17,12 +17,12 @@ While this is really cool in my opinion, the applications are probably limited. 
 
 #### The brute force method solving the puzzle:
 <video width="640" height="480" controls>
-  <source src="sudoku-brute.mp4" type="video/mp4">
+  <source src="sudoku-brute.mp4" type="video/mp4" preload="none">
   <a href="https://ryanawalters.github.io/UnrealSudokuSolver/"><b>Please view this page with videos enabled!</b></a>
 </video>
 
 #### The back propogation method solving the puzzle using the Python script:
 <video width="640" height="480" controls>
-  <source src="sudoku-good.mp4" type="video/mp4">
+  <source src="sudoku-good.mp4" type="video/mp4" preload="none">
   <a href="https://ryanawalters.github.io/UnrealSudokuSolver/"><b>Please view this page with videos enabled!</b></a>
 </video>
