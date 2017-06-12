@@ -8,7 +8,7 @@ In this team project, we created a python script to generate and solve sudoku pu
 ```
 The semicolons actually execute the command up until that point (which I certainly didn't know about the command line and Python).
 
-While this is really cool in my opinion, the applications are probably limited. It's slow and relies on the transfer of strings between Unreal Engine and Python. However it handles this small proof of concept example very well.
+*While this is really cool in my opinion, the applications are probably limited. It's slow and relies on the transfer of strings between Unreal Engine and Python. However it handles this small proof of concept example very well.*
 
 
 #### The part of the Unreal Engine script that interfaces with the Python script:
@@ -17,13 +17,13 @@ While this is really cool in my opinion, the applications are probably limited. 
 </p>
 
 #### The brute force method solving the puzzle:
-<video width="640" height="480" controls>
-  <source src="sudoku-brute.mp4" type="video/mp4">
+<video width="640" height="480" controls preload="none">
+  <source src="sudoku-brute.mp4" type="video/mp4" preload="none">
   <a href="https://ryanawalters.github.io/UnrealSudokuSolver/"><b>Please view this page with videos enabled!</b></a>
 </video>
 
 #### The back propogation method solving the puzzle using the Python script:
-<video width="640" height="480" controls>
-  <source src="sudoku-brute.mp4" type="video/mp4">
+<video width="640" height="480" controls preload="none">
+  <source src="sudoku-brute.mp4" type="video/mp4" preload="none">
   <a href="https://ryanawalters.github.io/UnrealSudokuSolver/"><b>Please view this page with videos enabled!</b></a>
 </video>
