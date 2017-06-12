@@ -23,6 +23,6 @@ While this is really cool in my opinion, the applications are probably limited. 
 
 #### The back propogation method solving the puzzle using the Python script:
 <video width="640" height="480" controls>
-  <source src="sudoku-brute.mp4" type="video/mp4">
+  <source src="sudoku-good.mp4" type="video/mp4">
   <a href="https://ryanawalters.github.io/UnrealSudokuSolver/"><b>Please view this page with videos enabled!</b></a>
 </video>
