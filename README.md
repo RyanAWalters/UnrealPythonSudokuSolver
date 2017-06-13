@@ -17,13 +17,13 @@ The semicolons actually execute the command up until that point (which I certain
   <img src="interface.png" width="800">
 </p>
 
-#### The brute force method solving the puzzle:
+#### The brute force method of solving the puzzle:
 <video width="640" height="480" controls preload="none">
   <source src="sudoku-brute.mp4" type="video/mp4" preload="none">
   Your browser does not support HTML5 video :(
 </video>
 
-#### The back propogation method solving the puzzle using the Python script:
+#### The back propogation method of solving the puzzle using the Python script:
 <video width="640" height="480" controls preload="none">
   <source src="sudoku-good.mp4" type="video/mp4" preload="none">
   Your browser does not support HTML5 video :(
