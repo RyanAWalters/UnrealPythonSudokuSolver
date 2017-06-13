@@ -2,7 +2,7 @@
 ### Unreal Engine <-> Python Interface
 Sudoku solver written in Python that interfaces with Unreal Engine for the GUI.
 
-In this team project, we created a python script to generate and solve sudoku puzzles. It does this by using contrained back-propogation algorithms. But we needed an interface. I used Unreal Engine and created a sudoku puzzle class and made a simple script that solved the puzzle with brute force (significantly slower that the Python script, for effect). Instead of translating the Python code to C++, I used Rama's plugin that allows for OS process creation and created an interface between Unreal Engine and Python. This is the call to Python that is run in a new process:
+In this team project, we created a python script to generate and solve sudoku puzzles. It does this by using constrained back-propogation algorithms. But we needed an interface. I used Unreal Engine and created a sudoku puzzle class and made a simple script that solved the puzzle with brute force (significantly slower that the Python script, for effect). Instead of translating the Python code to C++, I used Rama's plugin that allows for OS process creation and created an interface between Unreal Engine and Python. This is the call to Python that is run in a new process:
 ```
 "from sudoku1 import *; v = generate( [variable_from_unreal_engine] ); tofile('input.txt', v); solve([v])"
 ```
